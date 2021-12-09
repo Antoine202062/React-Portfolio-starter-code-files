@@ -119,7 +119,7 @@ const MySkillsPage = () => {
                         <Develope width={40} height={40} /> Backend Developer
                     </Title>
                     <Description>
-                        ok test ooookkk
+                        ok test oook
                     </Description>
                     <Description>
                         <strong>Skills</strong>
