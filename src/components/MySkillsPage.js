@@ -119,7 +119,7 @@ const MySkillsPage = () => {
                         <Develope width={40} height={40} /> Backend Developer
                     </Title>
                     <Description>
-                        I value business or brand for which i'm creating, thus i enjoy bringing new ideas to life.
+                        ok test ooookkk
                     </Description>
                     <Description>
                         <strong>Skills</strong>
