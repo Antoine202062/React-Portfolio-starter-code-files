@@ -7,6 +7,7 @@ import LogoComponent from "../subComponents/LogoComponent";
 import SocialIcons from "../subComponents/SocialIcons";
 import PowerButton from "../subComponents/PowerButton";
 import ParticleComponent from "../subComponents/ParticleComponent";
+import BigTitle from "../subComponents/BigTitle";
 
 
 const Box = styled.div`
@@ -119,7 +120,7 @@ const MySkillsPage = () => {
                         <Develope width={40} height={40} /> Backend Developer
                     </Title>
                     <Description>
-                        ok test oook
+                        I value business or brand for which i'm creating, thus i enjoy bringing new ideas to life.
                     </Description>
                     <Description>
                         <strong>Skills</strong>
@@ -136,7 +137,7 @@ const MySkillsPage = () => {
 
                 </Main>
 
-
+                <BigTitle text="SKILLS" top="70%" right="35%" />
 
             </Box>
 
